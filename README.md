@@ -16,6 +16,11 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 ## Project Description:
 
+<p align="center">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_1.png" width="800" height="500">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_2.png" width="800" height="500">
+</p>
+
 ## Project Hierarchy:
 
 **Repositary [/ABB-RobotStudo-Tutorial-SortingMachine/]:**
