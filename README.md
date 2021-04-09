@@ -7,6 +7,11 @@
 ABB RobotStudio
 ```
 
+**RobotWare:**
+```bash
+Version 6.10
+```
+
 Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 ## Project Description:
