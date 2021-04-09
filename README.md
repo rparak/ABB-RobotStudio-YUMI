@@ -22,7 +22,11 @@ Main challenges of project implementation:
 - object manipulation using an smart gripper (ABB)
 - cooperation of both robotic arms simultaneously
 - conveyor belt control
-- clean rapid program using a functions, structures, etc.
+- clean rapid program using functions, structures, etc.
+
+The project was created to improve the [VRM (Programming for Robots and Manipulators)](https://github.com/rparak/Programming-for-robots-and-manipulators-VRM) university course.
+
+The project was realized at Institute of Automation and Computer Science, Brno University of Technology, Faculty of Mechanical Engineering (NETME Centre - Cybernetics and Robotics Division).
 
 <p align="center">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_1.png" width="800" height="500">
