@@ -16,6 +16,14 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 ## Project Description:
 
+The project demonstrates several examples in ABB RobotStudio to control the YuMi collaborative robot (IRB 140000). The main goal of the project is the design of conveyor belt control, cooperation with multiple arms and simple manipulation of the object using an smart gripper (ABB).
+
+Main challenges of project implementation:
+- object manipulation using an smart gripper (ABB)
+- cooperation of both robotic arms simultaneously
+- conveyor belt control
+- clean rapid program using a functions, structures, etc.
+
 <p align="center">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_1.png" width="800" height="500">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_2.PNG" width="800" height="450">
