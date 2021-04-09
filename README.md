@@ -29,7 +29,7 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 [ Main Program (.rspag)                ] /Final/
 [ Example of the resulting application ] /Exe_file/
 [ Rapid codes (.mod) - Right/Left Arm  ] /Rapid/
-[ Scene without a robot                ] /.sat/
+[ Scene without a robot                ] /Project_Materials/
 ```
 
 ## Application:
