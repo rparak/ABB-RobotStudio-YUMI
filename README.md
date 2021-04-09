@@ -18,7 +18,7 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 <p align="center">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_1.png" width="800" height="500">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_2.PNG" width="800" height="500">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_2.PNG" width="800" height="450">
 </p>
 
 ## Project Hierarchy:
