@@ -1,4 +1,4 @@
-# ABB RobotStudio Tutorial - YuMi IRB 14000
+# ABB RobotStudio - YuMi IRB 14000
 
 ## Requirements:
 
