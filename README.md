@@ -34,6 +34,16 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 ## Application:
 
+<p align="center">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_1.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_2.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_3.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_4.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_5.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_6.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_7.png" width="800" height="450">
+</p>
+
 ## Result:
 
 Youtube: ...
