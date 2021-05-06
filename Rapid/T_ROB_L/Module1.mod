@@ -43,9 +43,9 @@ MODULE Module1
     
     ! Main waypoints (targets) for robot control
     CONST robtarget Target_Home_L:=[[81.638420457,319.82257735,109.364829146],[0.000000052,1,-0.000000119,-0.000000303],[1,3,0,0],[-134.999969429,9E+09,9E+09,9E+09,9E+09,9E+09]];
-    CONST robtarget Target_Obj_L:=[[193.065,317.877,-17.989],[-0.000000052,1,-0.000000119,-0.000000303],[1,3,0,0],[-134.99997239,9E+09,9E+09,9E+09,9E+09,9E+09]];
-    CONST robtarget Target_Conv_L:=[[475.064942955,304.87699259,37.010862604],[-0.000000052,1,-0.000000119,-0.000000303],[1,0,-2,0],[-134.999969429,9E+09,9E+09,9E+09,9E+09,9E+09]];
-    CONST robtarget Target_Sync_L:=[[310.054998319,31.98899986,174.899998903],[0.707106744,0.707106818,0.00000013,-0.000000298],[1,-1,-1,0],[-134.999973742,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    CONST robtarget Target_Obj_L:=[[196.32600017,318.340999214,-17.891001928],[0.000000052,1,-0.000000119,-0.000000303],[1,3,0,0],[-134.99997239,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    CONST robtarget Target_Conv_L:=[[478.310945519,315.399991807,37.108861731],[0.000000052,1,-0.000000119,-0.000000303],[1,0,-2,0],[-134.999969429,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    CONST robtarget Target_Sync_L:=[[308.301998612,31.891000222,175.422999954],[0.707106744,0.707106818,0.00000013,-0.000000298],[1,-1,-1,0],[-134.999973742,9E+09,9E+09,9E+09,9E+09,9E+09]];
     
     ! PERS Variables -> Communication between multiple Tasks (T_ROB_L, T_ROB_R)
     ! Use synchronization move (simple animation) -> CASE 5
@@ -232,9 +232,9 @@ MODULE Module1
     ENDPROC
     ! ################################## TEST TARGETS ################################## !
     PROC Path_10()
-        MoveL Target_Home_L,v1000,z100,Servo\WObj:=wobj0;
-        MoveL Target_Obj_L,v1000,z100,Servo\WObj:=wobj0;
-        MoveL Target_Conv_L,v1000,z100,Servo\WObj:=wobj0;
-        MoveL Target_Sync_L,v1000,z100,Servo\WObj:=wobj0;
+        MoveJ Target_Home_L,v200,fine,Servo\WObj:=wobj0;
+        MoveL Target_Obj_L,v200,fine,Servo\WObj:=wobj0;
+        MoveJ Target_Conv_L,v200,fine,Servo\WObj:=wobj0;
+        MoveL Target_Sync_L,v200,fine,Servo\WObj:=wobj0;
     ENDPROC
 ENDMODULE
