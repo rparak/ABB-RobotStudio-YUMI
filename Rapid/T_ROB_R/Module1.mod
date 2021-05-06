@@ -43,8 +43,8 @@ MODULE Module1
     
     ! Main waypoints (targets) for robot control
     CONST robtarget Target_Home_R:=[[298.859230972,-285.123,108.077570746],[-0.000000043,1,0.000002488,-0.00000597],[-1,1,0,0],[107.880618475,9E+09,9E+09,9E+09,9E+09,9E+09]];
-    CONST robtarget Target_Conv_R:=[[475.065,-285.123,37.011],[0.000000043,1,0.000002488,-0.00000597],[-1,0,2,0],[107.880618475,9E+09,9E+09,9E+09,9E+09,9E+09]];
-    CONST robtarget Target_Sync_R:=[[310.064993699,-43.010993226,174.876983856],[0.707106812,-0.707106751,0.000002462,0.000005981],[-1,1,1,0],[107.880618995,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    CONST robtarget Target_Conv_R:=[[478.310998567,-284.599983839,37.108961198],[-0.000000043,1,0.000002488,-0.00000597],[-1,0,2,0],[107.880618475,9E+09,9E+09,9E+09,9E+09,9E+09]];
+    CONST robtarget Target_Sync_R:=[[308.311000432,-43.109002,175.400004791],[0.707106812,-0.707106751,0.000002462,0.000005981],[-1,1,1,0],[107.880618995,9E+09,9E+09,9E+09,9E+09,9E+09]];
     
     ! PERS Variables -> Communication between multiple Tasks (T_ROB_L, T_ROB_R)
     ! Use synchronization move (simple animation) -> CASE 5
@@ -208,8 +208,8 @@ MODULE Module1
     ENDPROC
     ! ################################## TEST TARGETS ################################## !
     PROC Path_20()
-        MoveL Target_Home_R,v1000,z100,Servo\WObj:=wobj0;
-        MoveL Target_Conv_R,v1000,z100,Servo\WObj:=wobj0;
-        MoveL Target_Sync_R,v1000,z100,Servo\WObj:=wobj0;
+        MoveJ Target_Home_R,v200,fine,Servo\WObj:=wobj0;
+        MoveL Target_Conv_R,v200,fine,Servo\WObj:=wobj0;
+        MoveL Target_Sync_R,v200,fine,Servo\WObj:=wobj0;
     ENDPROC
 ENDMODULE
