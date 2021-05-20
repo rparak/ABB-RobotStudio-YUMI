@@ -28,6 +28,14 @@ The project was created to improve the [VRM (Programming for Robots and Manipula
 
 The project was realized at Institute of Automation and Computer Science, Brno University of Technology, Faculty of Mechanical Engineering (NETME Centre - Cybernetics and Robotics Division).
 
+**Unpacking a station (/Final/Solution_YuMi.rspag):**
+1. On the File tab, click Open and then browse to the folder and select the Pack&Go file, the Unpack & Work wizard opens.
+2. In the Welcome to the Unpack & Work Wizard page, click Next.
+3. In the Select package page, click Browse and then select the Pack & Go file to unpack and the Target folder. Click Next.
+4. In the Library handling page select the target library. Two options are available, Load files from local PC or Load files from Pack & Go. Click the option to select the location for loading the required files, and click Next.
+5. In the Virtual Controller page, select the RobotWare version and then click Locations to access the RobotWare Add-in and Media pool folders. Optionally, select the check box to automatically restore backup. Click Next.
+6. In the Ready to unpack page, review the information and then click Finish.
+
 <p align="center">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_1.png" width="800" height="500">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_2.PNG" width="800" height="450">
