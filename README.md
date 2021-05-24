@@ -49,7 +49,8 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 [ Main Program (.rspag)                ] /Final/
 [ Example of the resulting application ] /Exe_file/
 [ Rapid codes (.mod) - Right/Left Arm  ] /Rapid/
-[ Scene without a robot                ] /Project_Materials/
+[ Scene without a robot                ] /Project_Materials/.sat/
+[ Scene with a robot (Inventor)        ] /Project_Materials/Pack_and_Go/
 ```
 
 ## Application:
