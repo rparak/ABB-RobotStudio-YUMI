@@ -43,7 +43,7 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 
 ## Project Hierarchy:
 
-**Repositary [/ABB-RobotStudo-Tutorial-SortingMachine/]:**
+**Repositary [/ABB-RobotStudio-YUMI/]:**
 
 ```bash
 [ Main Program (.rspag)                ] /Final/
