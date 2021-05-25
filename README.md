@@ -37,8 +37,8 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 6. In the Ready to unpack page, review the information and then click Finish.
 
 <p align="center">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_1.png" width="800" height="500">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/1_2.PNG" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudio-YUMI/blob/main/images/1_1.png" width="800" height="500">
+  <img src="https://github.com/rparak/ABB-RobotStudio-YUMI/blob/main/images/1_2.PNG" width="800" height="450">
 </p>
 
 ## Project Hierarchy:
@@ -56,13 +56,13 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 ## Application:
 
 <p align="center">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_1.png" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_2.png" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_3.png" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_4.png" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_5.png" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_6.png" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-YUMI/blob/main/images/2_7.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudio-YUMI/blob/main/images/2_1.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudio-YUMI/blob/main/images/2_2.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudio-YUMI/blob/main/images/2_3.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudio-YUMI/blob/main/images/2_4.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudio-YUMI/blob/main/images/2_5.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudio-YUMI/blob/main/images/2_6.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudio-YUMI/blob/main/images/2_7.png" width="800" height="450">
 </p>
 
 ## Result:
