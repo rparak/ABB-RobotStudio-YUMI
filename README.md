@@ -1,4 +1,4 @@
-# ABB RobotStudio - YuMi IRB 14000
+# ABB RobotStudio - Basic control of the YuMi (IRB 14000) collaborative robot
 
 ## Requirements:
 
