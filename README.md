@@ -4,12 +4,12 @@
 
 **Software:**
 ```bash
-ABB RobotStudio
+ABB RobotStudio 2021.1.2 (64-bit)
 ```
 
 **RobotWare:**
 ```bash
-Version 6.10
+Version 6.12.01
 ```
 
 Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
