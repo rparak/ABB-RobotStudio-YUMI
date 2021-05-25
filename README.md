@@ -20,7 +20,7 @@ The project demonstrates a few examples in ABB RobotStudio to control the collab
 
 Main challenges of project implementation:
 - object manipulation using an smart gripper (ABB)
-- cooperation of both robotic arms simultaneously
+- cooperation of both robotic arms synchronously
 - conveyor belt control
 - clean rapid program using functions, structures, etc.
 
