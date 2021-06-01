@@ -12,7 +12,9 @@ ABB RobotStudio 2021.1.2 (64-bit)
 Version 6.12.0
 ```
 
-Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
+| Software/Package      | Link                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| ABB RobotStudio       | https://new.abb.com/products/robotics/robotstudio/downloads                           |
 
 ## Project Description:
 
