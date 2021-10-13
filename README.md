@@ -78,8 +78,8 @@ Roman.Parak@outlook.com
 ```bash
 @misc{RomanParak_ABB_RS,
   author = {Roman Parak},
-  title = {Data collection from the Universal Robots control unit using the TCP/IP communication protocol},
-  year = {2020-2021},
+  title = {A few examples of robot control in the ABB RobotStudio simulation tool},
+  year = {2019-2021},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/rparak/ABB-RobotStudio-YUMI/}}
